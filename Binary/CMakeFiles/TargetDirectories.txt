@@ -1,0 +1,3 @@
+/home/leonard/Desktop/coding/frost-engine/Binary/CMakeFiles/frost_engine.dir
+/home/leonard/Desktop/coding/frost-engine/Binary/CMakeFiles/edit_cache.dir
+/home/leonard/Desktop/coding/frost-engine/Binary/CMakeFiles/rebuild_cache.dir
